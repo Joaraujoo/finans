@@ -1,4 +1,4 @@
-# finans
+# projeto-bootstrap
 
 Projeto finanças desenvolvido totalmente com bootstrap.
 
